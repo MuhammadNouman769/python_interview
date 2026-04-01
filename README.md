@@ -62,4 +62,4 @@ written in **simple English + Roman Urdu** for easy understanding.
 
 Clone the repository:
 ```bash
-git clone https://github.com/MuhammadNouman769/interview_preparation.git
+git clone https://github.com/MuhammadNouman769/Programming-Laguanges.git
